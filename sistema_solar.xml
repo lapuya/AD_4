@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sistema>
+    <galaxia>Via Láctea</galaxia>
+    <nombre>Sistema Solar</nombre>
+    <planetas>
+        <planeta>
+            <nombre>La Tierra</nombre>
+            <tipo>Rocoso</tipo>
+            <numeroSatelites>1</numeroSatelites>
+            <distanciaDelSol>1.581E-5</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+        <planeta>
+            <nombre>Júpiter</nombre>
+            <tipo>Gaseoso</tipo>
+            <numeroSatelites>79</numeroSatelites>
+            <distanciaDelSol>7.8792E-5</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+        <planeta>
+            <nombre>Marte</nombre>
+            <tipo>Rocoso</tipo>
+            <numeroSatelites>2</numeroSatelites>
+            <distanciaDelSol>2.3201E-5</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+        <planeta>
+            <nombre>Neptuno</nombre>
+            <tipo>Gaseoso</tipo>
+            <numeroSatelites>14</numeroSatelites>
+            <distanciaDelSol>4.7296E-4</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+        <planeta>
+            <nombre>Mercurio</nombre>
+            <tipo>Rocoso</tipo>
+            <numeroSatelites>0</numeroSatelites>
+            <distanciaDelSol>7.3728E-6</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+        <planeta>
+            <nombre>Venus</nombre>
+            <tipo>Rocoso</tipo>
+            <numeroSatelites>0</numeroSatelites>
+            <distanciaDelSol>1.1401E-5</distanciaDelSol>
+            <datosPlanetarios>
+                <duracionDia>116d 18h 0m</duracionDia>
+                <gravedad>8.87</gravedad>
+                <radio>6051.8</radio>
+            </datosPlanetarios>
+        </planeta>
+    </planetas>
+</sistema>
